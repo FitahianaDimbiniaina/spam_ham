@@ -1,0 +1,2 @@
+modele na clustering
+reduction de dimention
